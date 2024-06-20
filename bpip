@@ -1,5 +1,5 @@
 {
-   "asn" : "AS87534",
+   "asn" : "AS87544",
    "asnName" : "Earthlink",
    "asnOrg" : "Earthlink",
    "businessName" : "",
@@ -14,7 +14,7 @@
    "lat" : "38.545",
    "lon" : "48.22859",
    "org" : "Earthlink",
-   "query" : "71.155.210.17",
+   "query" : "71.155.210.27",
    "region" : "Android_AppsX",
    "status" : "success",
    "timezone" : "Asia/Baghdad",
