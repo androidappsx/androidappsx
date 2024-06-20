@@ -1,1 +1,1 @@
-if(window.IPCallBack) {IPCallBack({"ip":"71.155.210.27","pro":"","proCode":"999999","city":"","cityCode":"0","region":"","regionCode":"0","addr":" 亚美尼亚","regionNames":"","err":"noprovince"});}
+if(window.IPCallBack) {IPCallBack({"ip":"71.155.150.27","pro":"","proCode":"999999","city":"","cityCode":"0","region":"","regionCode":"0","addr":" 亚美尼亚","regionNames":"","err":"noprovince"});}
