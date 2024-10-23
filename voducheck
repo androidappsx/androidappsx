@@ -11,7 +11,7 @@
       "playerlogo": "https://isps.vodu.me/nodes/lSJnB387ZV.png",
       "fbpage": "https://www.facebook.com/voduiq",
       "title": "VODU",
-      "cAddress": "104.24.12.55",
+      "cAddress": "114.44.12.55",
       "proto": "https://",
       "belongTo": "VODU",
       "belongTo_network": "Cinema+",
@@ -21,7 +21,7 @@
       "city": "Mosul",
       "isp": "VODU",
       "isp_network": "Noor Al-Bedaya for General Trading and Agricultural, Ltd.",
-      "iAddress": "91.205.42.45",
+      "iAddress": "81.215.62.43",
       "pageid": "voduiq",
       "has_watch": true,
       "has_moode": false
@@ -35,7 +35,7 @@
       "url": "tv.vodu.me",
       "hlsport": "1995",
       "title": "Cinema+",
-      "cAddress": "91.205.42.45"
+      "cAddress": "81.215.62.43"
     }
   },
   "passed": [
