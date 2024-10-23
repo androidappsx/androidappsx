@@ -1,0 +1,64 @@
+{
+  "vodu": {
+    "status": "ok",
+    "message": "انت متصل من خلال شركة VODU ",
+    "data": {
+      "url": "movie.vodu.me",
+      "furl": "full.vodu.me",
+      "hlsport": "443",
+      "s3port": "8888",
+      "logo": "https://isps.vodu.me/nodes/lSJnB387ZV.png",
+      "playerlogo": "https://isps.vodu.me/nodes/lSJnB387ZV.png",
+      "fbpage": "https://www.facebook.com/voduiq",
+      "title": "VODU",
+      "cAddress": "104.24.12.84",
+      "proto": "https://",
+      "belongTo": "VODU",
+      "belongTo_network": "Cinema+",
+      "support_vodu": "Yes",
+      "code": "IQ",
+      "country": "Iraq",
+      "city": "Mosul",
+      "isp": "VODU",
+      "isp_network": "Noor Al-Bedaya for General Trading and Agricultural, Ltd.",
+      "iAddress": "91.205.42.45",
+      "pageid": "voduiq",
+      "has_watch": true,
+      "has_moode": false
+    }
+  },
+  "tv": {
+    "status": "ok",
+    "message": "انت متصل من خلال شركة Cinema+",
+    "data": {
+      "proto": "https://",
+      "url": "tv.vodu.me",
+      "hlsport": "1995",
+      "title": "Cinema+",
+      "cAddress": "91.205.42.45"
+    }
+  },
+  "passed": [
+    "1.0",
+    "1.0.1",
+    "1.0.2",
+    "1.0.3",
+    "1.0.4",
+    "1.0.5",
+    "1.0.6",
+    "1.0.7"
+  ],
+  "passed2": [
+    "7.1.6",
+    "7.1.7",
+    "7.1.8",
+    "7.1.9"
+  ],
+  "android_tv": [
+    "1.0.36",
+    "1.0.37",
+    "1.0.38",
+    "1.0.39",
+    "1.0.40"
+  ]
+}
